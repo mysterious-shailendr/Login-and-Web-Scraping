@@ -1,0 +1,818 @@
+{
+    "1": {
+        "Account Code": "1-10001",
+        "Account Name": "Cash",
+        "Category": "Cash & Bank",
+        "Balance": "769.000,00"
+    },
+    "2": {
+        "Account Code": "1-10002",
+        "Account Name": "Bank Account",
+        "Category": "Cash & Bank",
+        "Balance": "266.265.000,00"
+    },
+    "3": {
+        "Account Code": "1-10003",
+        "Account Name": "Giro",
+        "Category": "Cash & Bank",
+        "Balance": "0,00"
+    },
+    "4": {
+        "Account Code": "1-10100",
+        "Account Name": "Account Receivable",
+        "Category": "Accounts Receivable (A/R)",
+        "Balance": "8.855.000,00"
+    },
+    "5": {
+        "Account Code": "1-10101",
+        "Account Name": "Unbilled Accounts Receivable",
+        "Category": "Accounts Receivable (A/R)",
+        "Balance": "0,00"
+    },
+    "6": {
+        "Account Code": "1-10102",
+        "Account Name": "Doubtful Receivable",
+        "Category": "Accounts Receivable (A/R)",
+        "Balance": "0,00"
+    },
+    "7": {
+        "Account Code": "1-10200",
+        "Account Name": "Inventory",
+        "Category": "Inventory",
+        "Balance": "205.820.000,00"
+    },
+    "8": {
+        "Account Code": "1-10300",
+        "Account Name": "Others Receivables",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "9": {
+        "Account Code": "1-10301",
+        "Account Name": "Employee Receivables",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "10": {
+        "Account Code": "1-10400",
+        "Account Name": "Undeposited Funds",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "11": {
+        "Account Code": "1-10401",
+        "Account Name": "Other current assets",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "12": {
+        "Account Code": "1-10402",
+        "Account Name": "Prepaid expenses",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "13": {
+        "Account Code": "1-10403",
+        "Account Name": "Advances",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "14": {
+        "Account Code": "1-10500",
+        "Account Name": "VAT In",
+        "Category": "Other Current Assets",
+        "Balance": "43.316.000,00"
+    },
+    "15": {
+        "Account Code": "1-10501",
+        "Account Name": "Prepaid Income Tax - PPh 22",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "16": {
+        "Account Code": "1-10502",
+        "Account Name": "Prepaid Income Tax - PPh 23",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "17": {
+        "Account Code": "1-10503",
+        "Account Name": "Prepaid Income Tax - PPh 25",
+        "Category": "Other Current Assets",
+        "Balance": "0,00"
+    },
+    "18": {
+        "Account Code": "1-10700",
+        "Account Name": "Fixed Assets - Land",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "19": {
+        "Account Code": "1-10701",
+        "Account Name": "Fixed Assets - Building",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "20": {
+        "Account Code": "1-10702",
+        "Account Name": "Fixed Assets - Building Improvements",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "21": {
+        "Account Code": "1-10703",
+        "Account Name": "Fixed Assets - Vehicles",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "22": {
+        "Account Code": "1-10704",
+        "Account Name": "Fixed Assets - Machinery & Equipment",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "23": {
+        "Account Code": "1-10705",
+        "Account Name": "Fixed Assets - Office Equipment",
+        "Category": "Fixed Assets",
+        "Balance": "34.000.000,00"
+    },
+    "24": {
+        "Account Code": "1-10706",
+        "Account Name": "Fixed Assets - Leased Asset",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "25": {
+        "Account Code": "1-10707",
+        "Account Name": "Intangible Assets",
+        "Category": "Fixed Assets",
+        "Balance": "0,00"
+    },
+    "26": {
+        "Account Code": "1-10751",
+        "Account Name": "Accumulated Depreciation - Building",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "27": {
+        "Account Code": "1-10752",
+        "Account Name": "Accumulated Depreciation - Building Improvements",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "28": {
+        "Account Code": "1-10753",
+        "Account Name": "Accumulated Depreciation - Vehicles",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "29": {
+        "Account Code": "1-10754",
+        "Account Name": "Accumulated Depreciation - Machinery & Equipment",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "30": {
+        "Account Code": "1-10755",
+        "Account Name": "Accumulated Depreciation - Office Equipment",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "31": {
+        "Account Code": "1-10756",
+        "Account Name": "Accumulated Depreciation - Leased Asset",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "32": {
+        "Account Code": "1-10757",
+        "Account Name": "Accumulated Amortization",
+        "Category": "Depreciation & Amortization",
+        "Balance": "0,00"
+    },
+    "33": {
+        "Account Code": "1-10800",
+        "Account Name": "Investments",
+        "Category": "Other Assets",
+        "Balance": "0,00"
+    },
+    "34": {
+        "Account Code": "2-20100",
+        "Account Name": "Trade Payable",
+        "Category": "Accounts Payable (A/P)",
+        "Balance": "259.435.000,00"
+    },
+    "35": {
+        "Account Code": "2-20101",
+        "Account Name": "Unbilled Accounts Payable",
+        "Category": "Accounts Payable (A/P)",
+        "Balance": "0,00"
+    },
+    "36": {
+        "Account Code": "2-20200",
+        "Account Name": "Other Payables",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "37": {
+        "Account Code": "2-20201",
+        "Account Name": "Salaries Payable",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "38": {
+        "Account Code": "2-20202",
+        "Account Name": "Dividends Payable",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "39": {
+        "Account Code": "2-20203",
+        "Account Name": "Unearned Revenue",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "40": {
+        "Account Code": "2-20205",
+        "Account Name": "Consignor Account",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "41": {
+        "Account Code": "2-20301",
+        "Account Name": "Accrued Utilities",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "42": {
+        "Account Code": "2-20302",
+        "Account Name": "Accrued Interest",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "43": {
+        "Account Code": "2-20399",
+        "Account Name": "Other Accrued Expenses",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "44": {
+        "Account Code": "2-20400",
+        "Account Name": "Bank Loans",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "45": {
+        "Account Code": "2-20500",
+        "Account Name": "VAT Out",
+        "Category": "Other Current Liabilities",
+        "Balance": "29.630.000,00"
+    },
+    "46": {
+        "Account Code": "2-20501",
+        "Account Name": "Tax Payable - PPh 21",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "47": {
+        "Account Code": "2-20502",
+        "Account Name": "Tax Payable - PPh 22",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "48": {
+        "Account Code": "2-20503",
+        "Account Name": "Tax Payable - PPh 23",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "49": {
+        "Account Code": "2-20504",
+        "Account Name": "Tax Payable - PPh 29",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "50": {
+        "Account Code": "2-20599",
+        "Account Name": "Other Taxes Payable",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "51": {
+        "Account Code": "2-20600",
+        "Account Name": "Loan from Shareholders",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "52": {
+        "Account Code": "2-20601",
+        "Account Name": "Other Current Liabilities",
+        "Category": "Other Current Liabilities",
+        "Balance": "0,00"
+    },
+    "53": {
+        "Account Code": "2-20700",
+        "Account Name": "Employee Benefit Liabilities",
+        "Category": "Long Term Liabilities",
+        "Balance": "0,00"
+    },
+    "54": {
+        "Account Code": "3-30000",
+        "Account Name": "Paid In Capital",
+        "Category": "Equity",
+        "Balance": "0,00"
+    },
+    "55": {
+        "Account Code": "3-30001",
+        "Account Name": "Additional Paid In Capital",
+        "Category": "Equity",
+        "Balance": "0,00"
+    },
+    "56": {
+        "Account Code": "3-30100",
+        "Account Name": "Retained Earnings",
+        "Category": "Equity",
+        "Balance": "0,00"
+    },
+    "57": {
+        "Account Code": "3-30200",
+        "Account Name": "Dividends",
+        "Category": "Equity",
+        "Balance": "0,00"
+    },
+    "58": {
+        "Account Code": "3-30300",
+        "Account Name": "Other Comprehensive Income",
+        "Category": "Equity",
+        "Balance": "0,00"
+    },
+    "59": {
+        "Account Code": "3-30999",
+        "Account Name": "Opening Balance Equity",
+        "Category": "Equity",
+        "Balance": "201.000.000,00"
+    },
+    "60": {
+        "Account Code": "4-40000",
+        "Account Name": "Revenues",
+        "Category": "Income",
+        "Balance": "296.300.000,00"
+    },
+    "61": {
+        "Account Code": "4-40100",
+        "Account Name": "Sales Discount",
+        "Category": "Income",
+        "Balance": "0,00"
+    },
+    "62": {
+        "Account Code": "4-40200",
+        "Account Name": "Sales Return",
+        "Category": "Income",
+        "Balance": "0,00"
+    },
+    "63": {
+        "Account Code": "4-40201",
+        "Account Name": "Unbilled Revenues",
+        "Category": "Income",
+        "Balance": "0,00"
+    },
+    "64": {
+        "Account Code": "5-50000",
+        "Account Name": "Cost of Sales",
+        "Category": "Cost of Sales",
+        "Balance": "214.930.000,00"
+    },
+    "65": {
+        "Account Code": "5-50100",
+        "Account Name": "Purchase Discounts",
+        "Category": "Cost of Sales",
+        "Balance": "0,00"
+    },
+    "66": {
+        "Account Code": "5-50200",
+        "Account Name": "Purchase Return",
+        "Category": "Cost of Sales",
+        "Balance": "0,00"
+    },
+    "67": {
+        "Account Code": "5-50300",
+        "Account Name": "Shipping/Freight & Delivery",
+        "Category": "Cost of Sales",
+        "Balance": "210.000,00"
+    },
+    "68": {
+        "Account Code": "5-50400",
+        "Account Name": "Import Charges",
+        "Category": "Cost of Sales",
+        "Balance": "0,00"
+    },
+    "69": {
+        "Account Code": "5-50500",
+        "Account Name": "Cost of Production",
+        "Category": "Cost of Sales",
+        "Balance": "0,00"
+    },
+    "70": {
+        "Account Code": "6-60000",
+        "Account Name": "Selling Expenses",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "71": {
+        "Account Code": "6-60001",
+        "Account Name": "Advertising & Promotion",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "72": {
+        "Account Code": "6-60002",
+        "Account Name": "Commission & Fees",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "73": {
+        "Account Code": "6-60003",
+        "Account Name": "Fuel, Toll and Parking - Sales",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "74": {
+        "Account Code": "6-60004",
+        "Account Name": "Travelling - Sales",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "75": {
+        "Account Code": "6-60005",
+        "Account Name": "Communication - Sales",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "76": {
+        "Account Code": "6-60006",
+        "Account Name": "Other Marketing",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "77": {
+        "Account Code": "6-60100",
+        "Account Name": "General & Administrative Expenses",
+        "Category": "Expenses",
+        "Balance": "12.200.000,00"
+    },
+    "78": {
+        "Account Code": "6-60101",
+        "Account Name": "Salaries",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "79": {
+        "Account Code": "6-60102",
+        "Account Name": "Wages",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "80": {
+        "Account Code": "6-60103",
+        "Account Name": "Meals and Transport",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "81": {
+        "Account Code": "6-60104",
+        "Account Name": "Overtime",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "82": {
+        "Account Code": "6-60105",
+        "Account Name": "Medical",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "83": {
+        "Account Code": "6-60106",
+        "Account Name": "THR and Bonus",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "84": {
+        "Account Code": "6-60107",
+        "Account Name": "Jamsostek",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "85": {
+        "Account Code": "6-60108",
+        "Account Name": "Incentive",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "86": {
+        "Account Code": "6-60109",
+        "Account Name": "Severance",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "87": {
+        "Account Code": "6-60110",
+        "Account Name": "Other Benefit and Allowances",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "88": {
+        "Account Code": "6-60200",
+        "Account Name": "Donations",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "89": {
+        "Account Code": "6-60201",
+        "Account Name": "Entertainment",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "90": {
+        "Account Code": "6-60202",
+        "Account Name": "Fuel, Toll and Parking - General",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "91": {
+        "Account Code": "6-60203",
+        "Account Name": "Repair and Maintenance",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "92": {
+        "Account Code": "6-60204",
+        "Account Name": "Travelling - General",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "93": {
+        "Account Code": "6-60205",
+        "Account Name": "Meals",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "94": {
+        "Account Code": "6-60206",
+        "Account Name": "Communication - General",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "95": {
+        "Account Code": "6-60207",
+        "Account Name": "Dues & Subscription",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "96": {
+        "Account Code": "6-60208",
+        "Account Name": "Insurance",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "97": {
+        "Account Code": "6-60209",
+        "Account Name": "Legal & Professional Fees",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "98": {
+        "Account Code": "6-60210",
+        "Account Name": "Employee Benefit Expense",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "99": {
+        "Account Code": "6-60211",
+        "Account Name": "Utilities Expense",
+        "Category": "Expenses",
+        "Balance": "2.200.000,00"
+    },
+    "100": {
+        "Account Code": "6-60212",
+        "Account Name": "Training & Developments",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "101": {
+        "Account Code": "6-60213",
+        "Account Name": "Bad Debt Expense",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "102": {
+        "Account Code": "6-60214",
+        "Account Name": "Taxes and Licenses",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "103": {
+        "Account Code": "6-60215",
+        "Account Name": "Penalties",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "104": {
+        "Account Code": "6-60217",
+        "Account Name": "Electricity",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "105": {
+        "Account Code": "6-60218",
+        "Account Name": "Water",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "106": {
+        "Account Code": "6-60219",
+        "Account Name": "Service Charge",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "107": {
+        "Account Code": "6-60220",
+        "Account Name": "Subcribe Software",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "108": {
+        "Account Code": "6-60300",
+        "Account Name": "Office Expense",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "109": {
+        "Account Code": "6-60301",
+        "Account Name": "Stationery & Printing",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "110": {
+        "Account Code": "6-60302",
+        "Account Name": "Stamp & Duty",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "111": {
+        "Account Code": "6-60303",
+        "Account Name": "Securities and Cleaning",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "112": {
+        "Account Code": "6-60304",
+        "Account Name": "Supplies and Materials",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "113": {
+        "Account Code": "6-60305",
+        "Account Name": "Subcontractors",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "114": {
+        "Account Code": "6-60400",
+        "Account Name": "Rental Expense - Building",
+        "Category": "Expenses",
+        "Balance": "10.000.000,00"
+    },
+    "115": {
+        "Account Code": "6-60401",
+        "Account Name": "Rental Expense - Vehicle",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "116": {
+        "Account Code": "6-60402",
+        "Account Name": "Rental Expense - Operating Lease",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "117": {
+        "Account Code": "6-60403",
+        "Account Name": "Rental Expense - Others",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "118": {
+        "Account Code": "6-60500",
+        "Account Name": "Depreciation - Building",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "119": {
+        "Account Code": "6-60501",
+        "Account Name": "Depreciation - Building Improvements",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "120": {
+        "Account Code": "6-60502",
+        "Account Name": "Depreciation - Vehicle",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "121": {
+        "Account Code": "6-60503",
+        "Account Name": "Depreciation - Machinery & Equipment",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "122": {
+        "Account Code": "6-60504",
+        "Account Name": "Depreciation - Office Equipment",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "123": {
+        "Account Code": "6-60599",
+        "Account Name": "Depreciation - Leased Asset",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "124": {
+        "Account Code": "6-60216",
+        "Account Name": "Waste Goods Expense",
+        "Category": "Expenses",
+        "Balance": "0,00"
+    },
+    "125": {
+        "Account Code": "7-70000",
+        "Account Name": "Interest Income - Bank",
+        "Category": "Other Income",
+        "Balance": "0,00"
+    },
+    "126": {
+        "Account Code": "7-70001",
+        "Account Name": "Interest Income - Time deposit",
+        "Category": "Other Income",
+        "Balance": "0,00"
+    },
+    "127": {
+        "Account Code": "7-70002",
+        "Account Name": "Commission Income from Consignor",
+        "Category": "Other Income",
+        "Balance": "0,00"
+    },
+    "128": {
+        "Account Code": "7-70003",
+        "Account Name": "Rounding",
+        "Category": "Other Income",
+        "Balance": "0,00"
+    },
+    "129": {
+        "Account Code": "7-70099",
+        "Account Name": "Other Income",
+        "Category": "Other Income",
+        "Balance": "0,00"
+    },
+    "130": {
+        "Account Code": "8-80000",
+        "Account Name": "Interest Expense",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "131": {
+        "Account Code": "8-80001",
+        "Account Name": "Provision",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "132": {
+        "Account Code": "8-80002",
+        "Account Name": "(Gain)/Loss on Disposal of Fixed Assets",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "133": {
+        "Account Code": "8-80100",
+        "Account Name": "Inventory Adjustments",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "134": {
+        "Account Code": "8-80999",
+        "Account Name": "Other Miscellaneous Expense",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "135": {
+        "Account Code": "9-90000",
+        "Account Name": "Income Taxes - Current",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    },
+    "136": {
+        "Account Code": "9-90001",
+        "Account Name": "Income Taxes - Deferred",
+        "Category": "Other Expense",
+        "Balance": "0,00"
+    }
+}
