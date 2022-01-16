@@ -22,8 +22,8 @@ def _login_auth(url: str):
     login_form = br.select_form(id="new_user")
 
     # User credentials
-    br.form['user[email]'] = 'shailendrshrivastav1234@gmail.com'
-    br.form['user[password]'] = 'Login1234#'
+    br.form['user[email]'] = 'test4@gmail.com'  # Enter your username
+    br.form['user[password]'] = 'Test1234'      # Enter your password
 
     # Login
     br.submit()
